@@ -20,7 +20,7 @@ They are:
 | 9. Left lower limb extension | ![](assets/action_09_kinect.gif) |
 | 10. Right lower limb extension | ![](assets/action_10_kinect.gif) |
 
-Here is an example of estimation, compare with the ground truth.
+Here is an example of estimation, compare with the ground truth. This set of animations shows a frame-by-frame comparison among the radar point cloud, the prediction results of the MARS model, and the Kinect ground-truth skeleton in the Squad test sequence.
 ![](assets/44_mars_radar_kinect_angles.gif) 
 
 
