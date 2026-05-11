@@ -21,3 +21,6 @@ They are:
 | 10. Right lower limb extension | ![](assets/action_10_kinect.gif) |
 
 Here is an example of estimation, compare with the ground truth.
+![](assets/44_mars_radar_kinect_angles.gif) 
+
+
