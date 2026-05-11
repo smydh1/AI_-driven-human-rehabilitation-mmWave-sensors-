@@ -19,3 +19,5 @@ They are:
 | 8. Right side lunge | ![](assets/action_08_kinect.gif) |
 | 9. Left lower limb extension | ![](assets/action_09_kinect.gif) |
 | 10. Right lower limb extension | ![](assets/action_10_kinect.gif) |
+
+Here is an example of estimation, compare with the ground truth.
