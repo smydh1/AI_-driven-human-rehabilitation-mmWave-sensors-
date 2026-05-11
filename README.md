@@ -7,7 +7,8 @@ The figure below shows ten different movements we evaluate in our dataset.
 
 They are:
 
-*1) Left upper limb extension*  
+*1) Left upper limb extension*
+![](assets/kinect_gifs/action_01_kinect.gif
 *2) Right upper limb extension*  
 *3) Both upper limb extension*  
 *4) Squat*  
